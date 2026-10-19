@@ -1,0 +1,72 @@
+<mxGraphModel dx="1036" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="isue-DKA0vChdBSpCPAV-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Activo" vertex="1">
+      <mxGeometry height="60" width="140" x="320" y="50" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-2" parent="isue-DKA0vChdBSpCPAV-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="numero" vertex="1">
+      <mxGeometry height="30" width="140" y="30" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Hipoteca" vertex="1">
+      <mxGeometry height="300" width="140" x="180" y="220" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-6" parent="isue-DKA0vChdBSpCPAV-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="pareja" vertex="1">
+      <mxGeometry height="30" width="140" y="30" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-7" parent="isue-DKA0vChdBSpCPAV-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="valor inicial" vertex="1">
+      <mxGeometry height="30" width="140" y="60" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-8" parent="isue-DKA0vChdBSpCPAV-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="fecha otorgada" vertex="1">
+      <mxGeometry height="30" width="140" y="90" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-16" parent="isue-DKA0vChdBSpCPAV-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="cuota" vertex="1">
+      <mxGeometry height="30" width="140" y="120" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-21" parent="isue-DKA0vChdBSpCPAV-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="ingresos semanales" vertex="1">
+      <mxGeometry height="30" width="140" y="150" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-20" parent="isue-DKA0vChdBSpCPAV-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="impuesto predial" vertex="1">
+      <mxGeometry height="30" width="140" y="180" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-19" parent="isue-DKA0vChdBSpCPAV-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="fecha impuesto" vertex="1">
+      <mxGeometry height="30" width="140" y="210" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-18" parent="isue-DKA0vChdBSpCPAV-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="seguro hogar" vertex="1">
+      <mxGeometry height="30" width="140" y="240" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-17" parent="isue-DKA0vChdBSpCPAV-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="fecha seguro" vertex="1">
+      <mxGeometry height="30" width="140" y="270" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Inversion" vertex="1">
+      <mxGeometry height="180" width="140" x="490" y="220" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-10" parent="isue-DKA0vChdBSpCPAV-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="entidad" vertex="1">
+      <mxGeometry height="30" width="140" y="30" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-11" parent="isue-DKA0vChdBSpCPAV-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="valor / monto" vertex="1">
+      <mxGeometry height="30" width="140" y="60" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-12" parent="isue-DKA0vChdBSpCPAV-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="palzo" vertex="1">
+      <mxGeometry height="30" width="140" y="90" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-23" parent="isue-DKA0vChdBSpCPAV-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="interes" vertex="1">
+      <mxGeometry height="30" width="140" y="120" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-22" parent="isue-DKA0vChdBSpCPAV-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="fecha" vertex="1">
+      <mxGeometry height="30" width="140" y="150" as="geometry" />
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-24" edge="1" parent="1" source="isue-DKA0vChdBSpCPAV-5" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.495;entryY=1.076;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" value="">
+      <mxGeometry height="50" relative="1" width="50" x="-0.3295" as="geometry">
+        <mxPoint x="250" y="217.72" as="sourcePoint" />
+        <mxPoint x="389.3000000000002" y="109.99999999999997" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="isue-DKA0vChdBSpCPAV-25" edge="1" parent="1" source="isue-DKA0vChdBSpCPAV-9" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="isue-DKA0vChdBSpCPAV-1" value="">
+      <mxGeometry height="50" relative="1" width="50" x="-0.3295" as="geometry">
+        <mxPoint x="310" y="320" as="sourcePoint" />
+        <mxPoint x="390" y="120" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+  </root>
+</mxGraphModel>

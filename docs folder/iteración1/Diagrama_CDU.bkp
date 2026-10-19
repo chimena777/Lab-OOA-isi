@@ -1,0 +1,60 @@
+<mxGraphModel dx="860" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="_KamXrMrmVic9FveqZ72-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="" vertex="1">
+      <mxGeometry height="60" width="30" x="100" y="170" as="geometry" />
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+      <mxGeometry height="260" width="190" x="190" y="80" as="geometry" />
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Deudor" vertex="1">
+      <mxGeometry height="60" width="30" x="440" y="180" as="geometry" />
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Calcular fondos" vertex="1">
+      <mxGeometry height="50" width="115" x="227.5" y="100" as="geometry" />
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Imprimir reporte" vertex="1">
+      <mxGeometry height="50" width="115" x="227.5" y="280" as="geometry" />
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Gestionar inversion" vertex="1">
+      <mxGeometry height="50" width="115" x="227.5" y="220" as="geometry" />
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Generar reporte" vertex="1">
+      <mxGeometry height="50" width="115" x="227.5" y="160" as="geometry" />
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-8" edge="1" parent="1" source="_KamXrMrmVic9FveqZ72-1" style="curved=1;curveGeometry=1;endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="_KamXrMrmVic9FveqZ72-4" value="">
+      <mxGeometry height="50" relative="1" width="50" x="0.1525" as="geometry">
+        <mxPoint x="390" y="270" as="sourcePoint" />
+        <mxPoint x="440" y="220" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-9" edge="1" parent="1" source="_KamXrMrmVic9FveqZ72-1" style="curved=1;curveGeometry=1;endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="_KamXrMrmVic9FveqZ72-6" value="">
+      <mxGeometry height="50" relative="1" width="50" x="0.2706" as="geometry">
+        <mxPoint x="250" y="55" as="sourcePoint" />
+        <mxPoint x="343" y="40" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-10" edge="1" parent="1" source="_KamXrMrmVic9FveqZ72-1" style="curved=1;curveGeometry=1;endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="_KamXrMrmVic9FveqZ72-5" value="">
+      <mxGeometry height="50" relative="1" width="50" x="0.1525" as="geometry">
+        <mxPoint x="310" y="55" as="sourcePoint" />
+        <mxPoint x="403" y="40" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-11" edge="1" parent="1" source="_KamXrMrmVic9FveqZ72-7" style="curved=1;curveGeometry=1;endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;endFill=0;entryPerimeter=0;" target="_KamXrMrmVic9FveqZ72-3" value="">
+      <mxGeometry height="50" relative="1" width="50" x="0.1525" as="geometry">
+        <mxPoint x="470" y="85" as="sourcePoint" />
+        <mxPoint x="563" y="70" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-12" edge="1" parent="1" source="_KamXrMrmVic9FveqZ72-1" style="curved=1;curveGeometry=1;endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="_KamXrMrmVic9FveqZ72-7" value="">
+      <mxGeometry height="50" relative="1" width="50" x="0.8214" as="geometry">
+        <mxPoint x="430" y="95" as="sourcePoint" />
+        <mxPoint x="523" y="80" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="_KamXrMrmVic9FveqZ72-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Empleado" vertex="1">
+      <mxGeometry height="30" width="60" x="85" y="230" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>
